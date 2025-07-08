@@ -17,5 +17,5 @@ A complete end-to-end machine learning project that predicts house prices based 
 - UI form where users can input house details and get predicted price instantly.
 - Deployed using Nginx on Ubuntu EC2 as a reverse proxy to Flask server.
 
-## 📁 Project Structure
+
 
